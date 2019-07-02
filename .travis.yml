@@ -21,4 +21,3 @@ after_success:
   - docker push datadiskpfv/multi-nginx
   - docker push datadiskpfv/multi-server
   - docker push datadiskpfv/multi-worker
-
